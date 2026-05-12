@@ -1,6 +1,6 @@
 aiogram==3.13.1
-Pillow==10.1.0
 qrcode[pil]==7.4.2
+Pillow==10.1.0
 pyzbar==0.1.9
 aiohttp==3.9.1
 python-multipart==0.0.6
